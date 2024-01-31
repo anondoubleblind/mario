@@ -1,0 +1,5 @@
+theme: jekyll-theme-slate
+title: "Mario LLM"
+
+url: 'https://anondoubleblind.github.io/' # your main domain
+baseurl: 'mario/'
